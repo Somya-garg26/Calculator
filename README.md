@@ -71,6 +71,12 @@ In future versions, I plan to:
 
 ##  Screenshots
 
+![Image](https://github.com/user-attachments/assets/87175ec4-59a9-49a8-a37a-592d2fd53d65)
+
+![Image](https://github.com/user-attachments/assets/7e5c238f-1929-47db-ba98-34c3d815ac47)
+
+![Image](https://github.com/user-attachments/assets/5d4944c6-8642-435c-ba02-ac49629a7219)
+
 
 
 
